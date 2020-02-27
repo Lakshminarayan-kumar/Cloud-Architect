@@ -1,4 +1,4 @@
 FROM centos
 
-CMD ["echo","Hello World!"]
+CMD ["echo","Hello World! "]
 
