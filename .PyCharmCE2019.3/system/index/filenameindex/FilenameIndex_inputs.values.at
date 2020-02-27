@@ -1,0 +1,32 @@
+ter.py	rotate.pysaveopts.pysdist.py	setopt.py
+test.py	upload.pyupload_docs.py__about__.py__init__.py
+_compat.py_structures.py
+markers.pyrequirements.pyspecifiers.py
+tags.pyutils.py
+version.py
+LICENSEMETADATAWHEELdependency_links.txtentry_points.txttop_level.txtzip-safe	RECORD	INSTALLERLICENSE.txtMETADATAWHEELentry_points.txttop_level.txt	RECORD	INSTALLEReasy_install.pyceasy_install.py.ideaFirstDockerProject.imlworkspace.xmlmisc.xmlmodules.xmlinspectionProfilesprofiles_settings.xml
+_csv.pyposix.py
+_ast.py
+_lsprof.py
+_codecs.pyzipimport.py_codecs_hk.pyreadline.py_weakref.py	_crypt.py_sqlite3.py_codecs_tw.py	_bsddb.py
+imageop.pydatetime.py
+mmap.pyfuture_builtins.py_multibytecodec.py	_io.py
+_struct.py	select.py_codecs_kr.py	signal.py
+_locale.pyerrno.py_curses_panel.py_codecs_jp.py	grp.pyoperator.py	_heapq.pyossaudiodev.py
+_ssl.py	nis.py_codecs_cn.py_functools.py
+_ctypes.pycStringIO.py
+_curses.pybinascii.pyfcntl.py_hotshot.py__builtin__.py
+gdbm.py
+cPickle.pyresource.py	parser.py_json.py_codecs_iso2022.pyarray.py	sys.py	thread.pycmath.pylinuxaudiodev.py
+_random.py_warnings.py_elementtree.py	dbm.py
+_sre.py_symtable.py
+marshal.py	bz2.pyitertools.py
+_socket.py	pwd.py_collections.py_hashlib.pydl.pyexceptions.py	imp.py
+pyexpat
+audioop.pygc.py
+math.py
+_bisect.py_multiprocessing.py__init__.py	errors.pymodel.py	timing.pyunicodedata.py
+spwd.pystrop.py
+zlib.py
+time.pyxxsubtype.py	syslog.py
+termios.py

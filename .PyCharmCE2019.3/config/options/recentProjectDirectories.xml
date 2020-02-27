@@ -1,0 +1,37 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/tmp/charm">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YOc602T3haUhJhbXiqWWkZF5oP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-193.6494.30" />
+              <option name="buildTimestamp" value="1580995764409" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1582816909271" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/FirstDockerProject">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1YPAmm40azjxhlqJno3ywIUJZp9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-193.6494.30" />
+              <option name="buildTimestamp" value="1580995754294" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1582834020761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/FirstDockerProject" />
+        <option value="/tmp/charm" />
+      </list>
+    </option>
+  </component>
+</application>
